@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding:0
+}
+li{
+  list-style: none;
+}
+html, body, #root {
+	height: 100%;
+}
+.title:hover{
+    background-color: crimson;
+}
+.btn{
+  color:#fff;
+  float: right;
+}
